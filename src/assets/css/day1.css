@@ -6,6 +6,7 @@
 }
 .imageDesign {
   width: 100vw;
+  border-radius: 40px;
 }
 .image1-container {
   display: flex;
@@ -22,4 +23,12 @@
 .images-container {
   display: flex;
   gap: 10px;
+}
+.button {
+  display: flex;
+
+  align-items: center;
+  gap: 2px;
+  color: brown;
+  font-size: larger;
 }
